@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="arch.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="539.40964"
+     inkscape:cy="383.14681"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:18.49456978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="311.4989"
+       y="564.01489"
+       id="text3774-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3776-7"
+         x="311.4989"
+         y="564.01489" /></text>
+    <g
+       id="g3865"
+       transform="translate(0,-0.43475723)">
+      <rect
+         y="567.44678"
+         x="305.66153"
+         height="59.843456"
+         width="152.287"
+         id="rect3753-3-5"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:2.11838913;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-6-3"
+         y="600.85156"
+         x="381.64731"
+         style="font-size:13.185462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3826"
+           y="600.85156"
+           x="381.64731"
+           sodipodi:role="line">mongoDB</tspan></text>
+    </g>
+    <g
+       id="g3856"
+       transform="translate(0,1.9073486e-6)">
+      <rect
+         y="527.72632"
+         x="106.26448"
+         height="99.129158"
+         width="152.287"
+         id="rect3753"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:2.11838913;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774"
+         y="551.79175"
+         x="111.61749"
+         style="font-size:18.49456978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="551.79175"
+           x="111.61749"
+           id="tspan3776"
+           sodipodi:role="line">node / express</tspan><tspan
+           id="tspan3828"
+           y="574.90997"
+           x="111.61749"
+           sodipodi:role="line">node / socket.io</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-6-3-6"
+         y="596.92297"
+         x="182.26956"
+         style="font-size:13.185462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="596.92297"
+           x="182.26956"
+           id="tspan3776-7-5-2"
+           sodipodi:role="line">gulp / BrowserSync</tspan><tspan
+           id="tspan3826-9"
+           y="613.40479"
+           x="182.26956"
+           sodipodi:role="line">nodaemon</tspan></text>
+    </g>
+    <g
+       id="g3890"
+       transform="translate(0,3.7445982)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3870"
+         d="m 264.64286,582.20374 34.82143,0"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3870-1"
+         d="m 264.64286,604.17456 34.82143,0"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g3865-0"
+       transform="translate(-199.38553,76.414122)">
+      <rect
+         y="567.44678"
+         x="305.66153"
+         height="59.843456"
+         width="152.287"
+         id="rect3753-3-5-9"
+         style="color:#000000;fill:#00aad4;stroke:#000000;stroke-width:2.11838913000000018;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-6-3-3"
+         y="600.85156"
+         x="381.64731"
+         style="font-size:13.185462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3826-6"
+           y="600.85156"
+           x="381.64731"
+           sodipodi:role="line">gulpfile</tspan></text>
+    </g>
+    <g
+       id="g3865-0-0"
+       transform="translate(-199.38553,153.263)">
+      <rect
+         y="567.44678"
+         x="305.66153"
+         height="59.843456"
+         width="152.287"
+         id="rect3753-3-5-9-6"
+         style="color:#000000;fill:#00aad4;stroke:#000000;stroke-width:2.11838913000000018;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-6-3-3-2"
+         y="600.85156"
+         x="381.64731"
+         style="font-size:13.185462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3826-6-6"
+           y="600.85156"
+           x="381.64731"
+           sodipodi:role="line">index.html</tspan></text>
+    </g>
+    <g
+       id="g3865-0-0-1"
+       transform="translate(-199.38553,230.11188)">
+      <rect
+         y="567.44678"
+         x="305.66153"
+         height="59.843456"
+         width="152.287"
+         id="rect3753-3-5-9-6-8"
+         style="color:#000000;fill:#00aad4;stroke:#000000;stroke-width:2.11838913000000018;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-6-3-3-2-7"
+         y="600.85156"
+         x="381.64731"
+         style="font-size:13.185462px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#1a1a1a;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3826-6-6-9"
+           y="600.85156"
+           x="381.64731"
+           sodipodi:role="line">server.js</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22.72896004px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="495.49469"
+       y="670.84143"
+       id="text4004"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4006"
+         x="495.49469"
+         y="670.84143">server.jsのctrl+S時の再起動問題</tspan><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="699.25262"
+         id="tspan4030">nodaemonがたまに二重起動を許す</tspan><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="727.66382"
+         id="tspan4032" /><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="756.07501"
+         id="tspan4020">nodaemonかキルスイッチを搭載するか</tspan><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="784.48621"
+         id="tspan4022" /><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="812.89746"
+         id="tspan4014">→キルスイッチは復活時の判定が微妙そう</tspan><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="841.30865"
+         id="tspan4010">ビルトインのhttpサーバー等Gulpか</tspan><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="869.71985"
+         id="tspan4012">BrowserSyncで対応できそうなら対応</tspan><tspan
+         sodipodi:role="line"
+         x="495.49469"
+         y="898.13104"
+         id="tspan4034">プロセス起動時のpidからkillも検討</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.72896004px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="250"
+       y="405.93362"
+       id="text4016"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4018"
+         x="250"
+         y="405.93362">dockerfile</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="434.34482"
+         id="tspan4038">起動用 kickstart.sh</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="462.75601"
+         id="tspan4040">終了/掃除用 clean.sh</tspan><tspan
+         sodipodi:role="line"
+         x="250"
+         y="491.16724"
+         id="tspan4036">iptablesポート開放/遮断用 open.sh</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.72896004px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="72.21357"
+       y="915.37158"
+       id="text4042"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4044"
+         x="72.21357"
+         y="915.37158">ホストからマウント</tspan><tspan
+         sodipodi:role="line"
+         x="72.21357"
+         y="943.78278"
+         id="tspan4052">http://qiita.com/Yarimizu14/items/52f4859027165a805630</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.72896004px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       x="273.37933"
+       y="526.86743"
+       id="text4046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4048"
+         x="273.37933"
+         y="526.86743">docker link</tspan><tspan
+         sodipodi:role="line"
+         x="273.37933"
+         y="555.27863"
+         id="tspan4050">http://qiita.com/Arturias/items/75828479c1f9eb8d43fa</tspan></text>
+  </g>
+</svg>
