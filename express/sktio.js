@@ -1,3 +1,4 @@
+'use strict'
 var sktio = function(server) {
 
     var io = require("socket.io")(server, {
@@ -14,7 +15,6 @@ var sktio = function(server) {
             });
         });
     });
-
-}
+};
 
 module.exports = sktio;

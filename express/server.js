@@ -32,5 +32,5 @@ app.get('/api/config', function(req, res) {
 });
 
 var server = app.listen('3000', 'localhost');
-var sktio = require('./public/js/sktio')(server);
+var sktio = require('./sktio')(server);
 console.log("ok");

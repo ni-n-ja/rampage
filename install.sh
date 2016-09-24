@@ -5,4 +5,4 @@
 #sudo systemctl restart docker
 #sudo service docker restart
 
-docker pull mongo node express
+docker pull mongo node
