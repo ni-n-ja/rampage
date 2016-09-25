@@ -13,11 +13,11 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(bodyParser.json());
 
-router.use(function(req, res, next) {
+router.use(function (req, res, next) {
     next();
 });
 
-router.route('/api').get(function(req, res) {
+router.route('/api').get(function (req, res) {
     res.writeHead(200, {
         'content-type': 'application/json'
     });
@@ -27,10 +27,36 @@ router.route('/api').get(function(req, res) {
 });
 
 app.use('/', router);
-app.get('/api/config', function(req, res) {
+app.get('/api/config', function (req, res) {
     res.send('var config = ' + JSON.stringify(config));
 });
 
 var server = app.listen('3000', 'localhost');
 var sktio = require('./sktio')(server);
 console.log("ok");
+
+console.log(process.env.MONGO_PORT_27017_TCP_ADDR);
+
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
+var userSchema = new Schema({
+    id: { type: Number, required: true, unique: true },
+    name: String
+});
+mongoose.model('User', userSchema);
+
+mongoose.connect('mongodb://' + process.env.MONGO_PORT_27017_TCP_ADDR
+    + ':' + process.env.MONGO_PORT_27017_TCP_PORT + '/jsonAPI');
+
+var User = mongoose.model('User');
+var user = new User();
+user.id = 1;
+user.name = "aaaa";
+user.save(function (err) {
+    if (err) {
+        console.log(err);
+    } else {
+        console.log({ message: 'User created!' });
+    }
+
+});
